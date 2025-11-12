@@ -1,0 +1,11 @@
+torch>=2.1
+torchvision>=0.16
+timm>=0.9.12
+albumentations>=1.4.8
+opencv-python>=4.10.0
+numpy>=1.26
+scikit-learn>=1.5
+tqdm>=4.66
+pydicom>=2.4
+SimpleITK>=2.3
+einops>=0.8.0
